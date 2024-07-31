@@ -1,0 +1,10 @@
+colorama
+qq-botpy
+json
+pyyaml
+re
+os
+subprocess
+sys
+asyncio
+spark_ai_python
